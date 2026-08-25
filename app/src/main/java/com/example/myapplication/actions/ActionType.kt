@@ -1,0 +1,24 @@
+package com.example.myapplication.actions
+
+enum class ActionType {
+    CALCULATE,
+    COPY,
+    OPEN_URL,
+    COMPOSE_EMAIL,
+    CALL,
+    EXPLAIN,
+    SUMMARIZE,
+    SIMPLIFY,
+    REWRITE_CONCISE,
+    REWRITE_FRIENDLY,
+    REWRITE_PROFESSIONAL,
+    REWRITE_CASUAL,
+    REWRITE_CLEAR,
+    REPLY,
+    SHOW_STEPS,
+    PREPARE_ANSWER,
+    GENERATE_STUDY_QUESTIONS,
+    FLASHCARDS,
+    QUIZ,
+    FOLLOW_UP
+}
